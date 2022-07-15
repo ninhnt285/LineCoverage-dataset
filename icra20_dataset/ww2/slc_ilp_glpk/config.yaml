@@ -7,7 +7,7 @@ solver_mlc: mem
 cost_function: travel_time
 travel_time_config:
   service_speed: 5.0
-  deadhead_speed: 8.0
+  deadhead_speed: 5.0
   wind_speed: 0.0
   wind_dir: 45
 add_pairwise_nonreq_edges: false
@@ -16,8 +16,8 @@ capacity: 1800
 use_2opt: false
 ilp_time_limit: 100000000
 depot:
-  mode: mean
-  ID: 1
+  mode: custom
+  ID: 9728365302
 input_graph:
   lla: true
   costs: false

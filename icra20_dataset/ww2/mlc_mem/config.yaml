@@ -1,8 +1,8 @@
 database:
   path: LineCoverage-dataset/icra20_dataset
   data_dir: ww2
-problem: slc
-solver_slc: beta2_gtsp
+problem: mlc
+solver_slc: ilp_glpk
 solver_mlc: mem
 cost_function: travel_time
 travel_time_config:

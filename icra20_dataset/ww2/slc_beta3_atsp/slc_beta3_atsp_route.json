@@ -3,20 +3,6 @@ var graph_data = [{
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.734246, 35.3071075], [-80.734752, 35.3071075]]
-}
-}, {
-	"type": "Feature",
-	"req": "true",
-	"geometry": {
-	"type": "LineString",
-	"coordinates": [[-80.7347833, 35.3071407], [-80.734752, 35.3071075]]
-}
-}, {
-	"type": "Feature",
-	"req": "true",
-	"geometry": {
-	"type": "LineString",
 	"coordinates": [[-80.734752, 35.3071075], [-80.7347717, 35.3070683]]
 }
 }, {
@@ -81,13 +67,6 @@ var graph_data = [{
 	"geometry": {
 	"type": "LineString",
 	"coordinates": [[-80.7352654, 35.3073028], [-80.7353849, 35.3072734]]
-}
-}, {
-	"type": "Feature",
-	"req": "true",
-	"geometry": {
-	"type": "LineString",
-	"coordinates": [[-80.7353849, 35.3072734], [-80.7354505, 35.307398]]
 }
 }, {
 	"type": "Feature",
@@ -385,10 +364,17 @@ var graph_data = [{
 }
 }, {
 	"type": "Feature",
-	"req": "false",
+	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.734752, 35.3071075], [-80.7347833, 35.3071407]]
+	"coordinates": [[-80.734246, 35.3071075], [-80.734752, 35.3071075]]
+}
+}, {
+	"type": "Feature",
+	"req": "true",
+	"geometry": {
+	"type": "LineString",
+	"coordinates": [[-80.7347833, 35.3071407], [-80.734752, 35.3071075]]
 }
 }, {
 	"type": "Feature",
@@ -452,13 +438,6 @@ var graph_data = [{
 	"geometry": {
 	"type": "LineString",
 	"coordinates": [[-80.7348788, 35.3072223], [-80.7349487, 35.3072604]]
-}
-}, {
-	"type": "Feature",
-	"req": "false",
-	"geometry": {
-	"type": "LineString",
-	"coordinates": [[-80.7354505, 35.307398], [-80.7353849, 35.3072734]]
 }
 }, {
 	"type": "Feature",
@@ -634,5 +613,12 @@ var graph_data = [{
 	"geometry": {
 	"type": "LineString",
 	"coordinates": [[-80.7338785, 35.3078979], [-80.73382049999999, 35.3078957]]
+}
+}, {
+	"type": "Feature",
+	"req": "false",
+	"geometry": {
+	"type": "LineString",
+	"coordinates": [[-80.734752, 35.3071075], [-80.7347833, 35.3071407]]
 }
 }];
