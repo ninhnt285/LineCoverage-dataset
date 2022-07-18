@@ -255,13 +255,6 @@ var graph_data = [{
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.7336038, 35.307596], [-80.7338216, 35.3075972]]
-}
-}, {
-	"type": "Feature",
-	"req": "true",
-	"geometry": {
-	"type": "LineString",
 	"coordinates": [[-80.7336038, 35.307596], [-80.733603, 35.3078365]]
 }
 }, {
@@ -578,13 +571,6 @@ var graph_data = [{
 	"geometry": {
 	"type": "LineString",
 	"coordinates": [[-80.733823, 35.3072345], [-80.73360510000001, 35.3072345]]
-}
-}, {
-	"type": "Feature",
-	"req": "false",
-	"geometry": {
-	"type": "LineString",
-	"coordinates": [[-80.7338216, 35.3075972], [-80.7336038, 35.307596]]
 }
 }, {
 	"type": "Feature",

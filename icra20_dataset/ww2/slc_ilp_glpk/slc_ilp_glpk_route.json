@@ -52,7 +52,7 @@ var graph_data = [{
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.7348119, 35.3070312], [-80.7348958, 35.3069761]]
+	"coordinates": [[-80.7348958, 35.3069761], [-80.7348119, 35.3070312]]
 }
 }, {
 	"type": "Feature",
@@ -66,35 +66,35 @@ var graph_data = [{
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.734752, 35.3071075], [-80.7347717, 35.3070683]]
+	"coordinates": [[-80.7347717, 35.3070683], [-80.734752, 35.3071075]]
 }
 }, {
 	"type": "Feature",
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.734246, 35.3071075], [-80.734752, 35.3071075]]
+	"coordinates": [[-80.734752, 35.3071075], [-80.734246, 35.3071075]]
 }
 }, {
 	"type": "Feature",
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.7342452, 35.3070748], [-80.734246, 35.3071075]]
+	"coordinates": [[-80.734246, 35.3071075], [-80.7342452, 35.3070748]]
 }
 }, {
 	"type": "Feature",
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.7339597, 35.3070723], [-80.7342452, 35.3070748]]
+	"coordinates": [[-80.7342452, 35.3070748], [-80.7339597, 35.3070723]]
 }
 }, {
 	"type": "Feature",
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.7339597, 35.3070723], [-80.73382359999999, 35.3070712]]
+	"coordinates": [[-80.73382359999999, 35.3070712], [-80.7339597, 35.3070723]]
 }
 }, {
 	"type": "Feature",
@@ -178,7 +178,7 @@ var graph_data = [{
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.73382429999999, 35.3068994], [-80.7338242, 35.3069255]]
+	"coordinates": [[-80.7338242, 35.3069255], [-80.73382429999999, 35.3068994]]
 }
 }, {
 	"type": "Feature",
@@ -192,14 +192,14 @@ var graph_data = [{
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.73382359999999, 35.3070712], [-80.733823, 35.3072345]]
+	"coordinates": [[-80.733823, 35.3072345], [-80.73382359999999, 35.3070712]]
 }
 }, {
 	"type": "Feature",
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.733823, 35.3072345], [-80.7338216, 35.3075972]]
+	"coordinates": [[-80.7338216, 35.3075972], [-80.733823, 35.3072345]]
 }
 }, {
 	"type": "Feature",
@@ -248,14 +248,14 @@ var graph_data = [{
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.7336038, 35.307596], [-80.73360510000001, 35.3072345]]
+	"coordinates": [[-80.73360510000001, 35.3072345], [-80.7336038, 35.307596]]
 }
 }, {
 	"type": "Feature",
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.73360510000001, 35.3072345], [-80.7336057, 35.3070693]]
+	"coordinates": [[-80.7336057, 35.3070693], [-80.73360510000001, 35.3072345]]
 }
 }, {
 	"type": "Feature",
@@ -269,14 +269,14 @@ var graph_data = [{
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.7339578, 35.3069752], [-80.7339597, 35.3070723]]
+	"coordinates": [[-80.7339597, 35.3070723], [-80.7339578, 35.3069752]]
 }
 }, {
 	"type": "Feature",
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.7339578, 35.3069752], [-80.7339544, 35.3068002]]
+	"coordinates": [[-80.7339544, 35.3068002], [-80.7339578, 35.3069752]]
 }
 }, {
 	"type": "Feature",
@@ -290,21 +290,21 @@ var graph_data = [{
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.7348958, 35.3069761], [-80.73475310000001, 35.306976]]
+	"coordinates": [[-80.73475310000001, 35.306976], [-80.7348958, 35.3069761]]
 }
 }, {
 	"type": "Feature",
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.73475310000001, 35.306976], [-80.7339578, 35.3069752]]
+	"coordinates": [[-80.7339578, 35.3069752], [-80.73475310000001, 35.306976]]
 }
 }, {
 	"type": "Feature",
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.7338242, 35.3069255], [-80.7339578, 35.3069752]]
+	"coordinates": [[-80.7339578, 35.3069752], [-80.7338242, 35.3069255]]
 }
 }, {
 	"type": "Feature",
@@ -339,21 +339,14 @@ var graph_data = [{
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.7339544, 35.3068002], [-80.73382429999999, 35.3068994]]
+	"coordinates": [[-80.73382429999999, 35.3068994], [-80.7339544, 35.3068002]]
 }
 }, {
 	"type": "Feature",
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.73360510000001, 35.3072345], [-80.733823, 35.3072345]]
-}
-}, {
-	"type": "Feature",
-	"req": "true",
-	"geometry": {
-	"type": "LineString",
-	"coordinates": [[-80.7338216, 35.3075972], [-80.7336038, 35.307596]]
+	"coordinates": [[-80.733823, 35.3072345], [-80.73360510000001, 35.3072345]]
 }
 }, {
 	"type": "Feature",
@@ -395,7 +388,7 @@ var graph_data = [{
 	"req": "false",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.7347717, 35.3070683], [-80.7348119, 35.3070312]]
+	"coordinates": [[-80.7348119, 35.3070312], [-80.7347717, 35.3070683]]
 }
 }, {
 	"type": "Feature",
@@ -409,21 +402,21 @@ var graph_data = [{
 	"req": "false",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.73382359999999, 35.3070712], [-80.7339597, 35.3070723]]
+	"coordinates": [[-80.7339597, 35.3070723], [-80.73382359999999, 35.3070712]]
 }
 }, {
 	"type": "Feature",
 	"req": "false",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.733823, 35.3072345], [-80.73382359999999, 35.3070712]]
+	"coordinates": [[-80.73382359999999, 35.3070712], [-80.733823, 35.3072345]]
 }
 }, {
 	"type": "Feature",
 	"req": "false",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.7336057, 35.3070693], [-80.73360510000001, 35.3072345]]
+	"coordinates": [[-80.73360510000001, 35.3072345], [-80.7336057, 35.3070693]]
 }
 }, {
 	"type": "Feature",
@@ -452,13 +445,6 @@ var graph_data = [{
 	"geometry": {
 	"type": "LineString",
 	"coordinates": [[-80.73349349999999, 35.306862], [-80.7332687, 35.3068627]]
-}
-}, {
-	"type": "Feature",
-	"req": "false",
-	"geometry": {
-	"type": "LineString",
-	"coordinates": [[-80.7338216, 35.3075972], [-80.7336038, 35.307596]]
 }
 }, {
 	"type": "Feature",

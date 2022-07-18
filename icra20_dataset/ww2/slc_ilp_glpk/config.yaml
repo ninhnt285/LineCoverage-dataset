@@ -6,13 +6,13 @@ solver_slc: ilp_glpk
 solver_mlc: mem
 cost_function: travel_time
 travel_time_config:
-  service_speed: 5.0
-  deadhead_speed: 5.0
+  service_speed: 0.5
+  deadhead_speed: 0.5
   wind_speed: 0.0
   wind_dir: 45
 add_pairwise_nonreq_edges: false
 convert_osm_json: true
-capacity: 1800
+capacity: 1000000
 use_2opt: false
 ilp_time_limit: 100000000
 depot:

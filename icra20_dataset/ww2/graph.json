@@ -353,13 +353,6 @@ var graph_data = [{
 	"req": "true",
 	"geometry": {
 	"type": "LineString",
-	"coordinates": [[-80.7338216, 35.3075972], [-80.7336038, 35.307596]]
-}
-}, {
-	"type": "Feature",
-	"req": "true",
-	"geometry": {
-	"type": "LineString",
 	"coordinates": [[-80.7339736, 35.3079578], [-80.7338785, 35.3078979]]
 }
 }, {
